@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Build / توزیع
+build/pyi/
+build/staging/
+dist/
+release/
+*.spec.bak
+
+# فایل تولیدی Build-Info (شامل Secret های Personal) — نباید کامیت شود
+config/_build_info.py
+
+# Secret ها
+secrets/
+
+# داده برنامه / لاگ
+data/
+*.log
+*.pdb
+
+# ابزارها
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/

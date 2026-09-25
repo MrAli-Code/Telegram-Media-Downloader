@@ -1,0 +1,11 @@
+{
+  "edition": "public",
+  "display_name": "Telegram Downloader Public",
+  "exe_name": "TelegramDownloader-Public",
+  "installer_name": "TelegramDownloader-Public-Setup",
+  "folder": "Public",
+  "update_url": "",
+  "app_id_guid": "{9B2A6D3E-5F4C-4A7B-9E11-3C0D1E2F4A57}",
+  "theme": "system",
+  "language": "fa"
+}

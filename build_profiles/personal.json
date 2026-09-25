@@ -1,0 +1,11 @@
+{
+  "edition": "personal",
+  "display_name": "Telegram Downloader Personal",
+  "exe_name": "TelegramDownloader-Personal",
+  "installer_name": "TelegramDownloader-Personal-Setup",
+  "folder": "Personal",
+  "update_url": "",
+  "app_id_guid": "{9B2A6D3E-5F4C-4A7B-9E11-3C0D1E2F4A56}",
+  "theme": "dark",
+  "language": "fa"
+}
